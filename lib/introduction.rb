@@ -1,4 +1,4 @@
-def introduction()
+def introduction
   #puts "Hello #{name}"
 end
 
